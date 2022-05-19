@@ -1,2 +1,2 @@
 # ArunGopinath-Spring_MVCLabSolution
-Student Regsitration App
+Student Registration App
